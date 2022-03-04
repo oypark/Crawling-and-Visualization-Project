@@ -54,4 +54,4 @@
 
 #### 활용 언어 및 플랫폼
 
-![python](https://img.shields.io/badge/Python-3.9-brightgreen) ![jupyter notebook](https://img.shields.io/badge/Jupyter%20Notebook-6.4-orange)
+![python](https://img.shields.io/badge/Python-3.9.7-brightgreen) ![jupyter notebook](https://img.shields.io/badge/Jupyter%20Notebook-6.4.5-orange)
