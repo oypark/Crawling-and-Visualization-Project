@@ -1,16 +1,16 @@
-# 크롤링 및 시각화 프로젝트
-# Crawling and Visulaization project
+# 크롤링 및 시각화 프로젝트(Crawling and Visulaization project)
 
 > 멀티캠퍼스 빅데이터 교육 첫 번째 프로젝트
+
 > The first projects with a team from Multicampus bigdata class.
 
 
-## 활용 언어 및 플랫폼
+#### 활용 언어 및 플랫폼
 
 * Python 3
 * Jupyter notebook
 
----
+
 
 ## 1. 프로젝트 주제 (Topic)
 
