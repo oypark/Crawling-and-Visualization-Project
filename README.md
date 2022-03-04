@@ -2,7 +2,7 @@
 
 멀티캠퍼스 빅데이터 교육 <u>첫 번째</u> 프로젝트
 
-*또 다른 프로젝트* ➡️ [비정형 데이터 분석 프로젝트]() / 
+*또 다른 프로젝트* ➡️ [비정형 데이터 분석 프로젝트](https://github.com/oypark/Unstructured-data-analysis-Project) / 
 
 
 ---
@@ -40,13 +40,13 @@
 
 ## 4. 프로젝트 성과 (Achievements) 😃
 
-(1) BeautifulSoup 패키지를 활용한 네이버 블로그 펜션리뷰, 지리정보 Crawling 및 Raw data 전처리 : [크롤링 및 데이터 전처리]()
+(1) BeautifulSoup 패키지를 활용한 네이버 블로그 펜션리뷰, 지리정보 Crawling 및 Raw data 전처리 : [크롤링 및 데이터 전처리](https://github.com/oypark/Crawling-and-Visualization-Project/blob/master/%5B%EC%B5%9C%EC%A2%85%5D%20%ED%81%AC%EB%A1%A4%EB%A7%81%20%EB%B0%8F%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%B2%98%EB%A6%AC.ipynb)
 
-(2) Matplotlib, Seaborn 등 시각화 패키지 활용 탐색적데이터 분석(EDA) : [시각화 통한 EDA]()
+(2) Matplotlib, Seaborn 등 시각화 패키지 활용 탐색적 데이터 분석(EDA) : [시각화 활용 EDA](https://github.com/oypark/Crawling-and-Visualization-Project/blob/master/%5B%EC%B5%9C%EC%A2%85%5D%20Seaborn%20%EC%8B%9C%EA%B0%81%ED%99%94.ipynb)
 
-(3) 대한민국 행정구역 지리정보를 담고 있는 GeoJSON 파일에 대한 이해와 이를 활용한 Heatmap 시각화 : [지도 시각화(1)]()
+(3) 대한민국 행정구역 지리정보를 담고 있는 GeoJSON 파일에 대한 이해와 이를 활용한 Heatmap 시각화 : [지도 시각화 (1)](https://github.com/oypark/Crawling-and-Visualization-Project/blob/master/%5B%EC%B5%9C%EC%A2%85%5D%20Folium%20%EC%8B%9C%EA%B0%81%ED%99%94%20(%ED%9E%88%ED%8A%B8%EB%A7%B5%20%EB%B3%84%EB%8F%84).ipynb)
 
-(4) Folium 패키지를 활용한 지도 시각화 및 HTML 기초 실습 : [지도 시각화(2)]()
+(4) Folium 패키지를 활용한 지도 시각화 및 HTML 기초 실습 : [지도 시각화 (2)](https://github.com/oypark/Crawling-and-Visualization-Project/blob/master/%5B%EC%B5%9C%EC%A2%85%5D%20Folium%20%ED%9E%88%ED%8A%B8%EB%A7%B5.ipynb)
 
 
 --- 
