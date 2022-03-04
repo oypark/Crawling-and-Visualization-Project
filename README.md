@@ -2,15 +2,20 @@
 
 멀티캠퍼스 빅데이터 교육 <u>첫 번째</u> 프로젝트
 
-(또 다른 프로젝트는? ▶ [비정형 데이터 분석 프로젝트]() / )
+The first projects with a team from Multicampus bigdata class
+
+(또 다른 프로젝트는? Other projects ▶ [비정형 데이터 분석 프로젝트]() / )
 
 
+---
 
 
 #### 활용 언어 및 플랫폼
 
 ![python](https://img.shields.io/badge/Python-3.9-brightgreen) ![jupyter notebook](https://img.shields.io/badge/Jupyter%20Notebook-6.4-orange)
 
+
+---
 
 
 ### 1) 프로젝트 주제 (Topic)
