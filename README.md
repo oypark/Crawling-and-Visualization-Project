@@ -1,21 +1,8 @@
 # 크롤링 및 시각화 프로젝트 (Crawling and Visulaization project)
 
-멀티캠퍼스 빅데이터 교육 <u>첫 번째</u> 프로젝트
+멀티캠퍼스 빅데이터 교육 <u>첫 번째</u> 프로젝트 (The first projects with a team from Multicampus bigdata class)
 
-The first projects with a team from Multicampus bigdata class
-
-(또 다른 프로젝트는? Other projects ▶ [비정형 데이터 분석 프로젝트]() / )
-
-
----
-
-
-#### 활용 언어 및 플랫폼
-
-![python](https://img.shields.io/badge/Python-3.9-brightgreen) ![jupyter notebook](https://img.shields.io/badge/Jupyter%20Notebook-6.4-orange)
-
-
----
+*또 다른 프로젝트는? Other projects* ▶ [비정형 데이터 분석 프로젝트]() / 
 
 
 ### 1) 프로젝트 주제 (Topic)
@@ -51,13 +38,23 @@ The first projects with a team from Multicampus bigdata class
 ### 4) 프로젝트 성과 (Achievements)
 
   1. BeautifulSoup 패키지를 활용한 네이버 블로그 펜션리뷰, 지리정보 Crawling 및 Raw data 전처리
+
     * [크롤링 및 데이터 전처리]()
 
   2. Matplotlib, Seaborn 등 시각화 패키지 활용 탐색적데이터 분석(EDA)
+
     * [시각화 통한 EDA]()
 
   3. 대한민국 행정구역 지리정보를 담고 있는 GeoJSON 파일에 대한 이해와 이를 활용한 Heatmap 시각화
+
     * [지도 시각화(1)]()
 
   4. Folium 패키지를 활용한 지도 시각화 및 HTML 기초 실습
+  
     * [지도 시각화(2)]()
+
+
+
+#### 활용 언어 및 플랫폼
+
+![python](https://img.shields.io/badge/Python-3.9-brightgreen) ![jupyter notebook](https://img.shields.io/badge/Jupyter%20Notebook-6.4-orange)
